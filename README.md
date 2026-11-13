@@ -230,57 +230,6 @@ The system provides:
 * Pothole warning messages
 * Nearby pothole indications
 
-# 🧪 Installation
-
-## Clone Repository
-
-
-git clone https://github.com/Deepak-tonupunuri/SMARTPHONE-BASED-POTHOLE-DETECTION-AND-ALERT-SYSTEM.git
-cd SMARTPHONE-BASED-POTHOLE-DETECTION-AND-ALERT-SYSTEM
-
-
-## Install Dependencies
-
-
-pip install -r Requirements.txt
-
-
-## Run Application
-
-
-python app.py
-
-
-Open browser:
-
-
-http://127.0.0.1:5000
-
-
-
-# 📦 Requirements
-
-
-Flask==3.0.3
-flask-cors==5.0.0
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.1
-joblib==1.4.2
-geocoder==1.38.1
-firebase-admin==6.5.0
-geopy==2.4.1
-opendatasets==0.1.22
-requests==2.32.3
-kaggle==1.7.4
-gunicorn==22.0.0
-python-dotenv==1.0.1
-
-
-Install all dependencies:
-
-
-pip install -r Requirements.txt
 
 
 # 🎯 Applications
