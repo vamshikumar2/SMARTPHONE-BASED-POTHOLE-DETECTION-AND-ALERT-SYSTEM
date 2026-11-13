@@ -306,18 +306,6 @@ pip install -r Requirements.txt
 
 
 
-# 👨‍💻 Author
-
-**Deepak Tonupunuri**
-
-B.Tech – Computer Science and Engineering
-
-Skills:
-Python | Machine Learning | Flask | Firebase | Web Development | Data Analysis
-
-GitHub: https://github.com/Deepak-tonupunuri
-
-LinkedIn: https://linkedin.com/in/deepak-tonupunuri
 
 
 
